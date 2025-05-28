@@ -1,3 +1,2 @@
 # Selective-Morphogenesis
-Software for Selective Morphogenesis Research
-Instructions for use of the software are found in the Help.pdf file.
+Software for Selective Morphogenesis Research: See the Help.pdf file for instructions.
